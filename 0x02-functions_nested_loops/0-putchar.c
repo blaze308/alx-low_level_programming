@@ -1,7 +1,8 @@
 #include "main.h"
 /**
-* _putchar: print the alphabets putchar
-* Return always 0
+* main - to printchar
+* Description: to printchar
+* Return: Always 0
 */
 
 int main(void)
