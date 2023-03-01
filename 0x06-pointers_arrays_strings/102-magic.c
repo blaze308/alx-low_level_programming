@@ -4,7 +4,8 @@
 * main - Entry point
 *
 * Description: 'the program's description'
-* Return: always (0)
+*
+* Return: Always 0 (Success)
 */
 
 int main(void)
@@ -23,6 +24,7 @@ p = &n;
 * - only one statement
 * - you are not allowed to code anything else than this line of code
 */
+;
 *(p + 5) = 98;
 /* ...so that this prints 98\n */
 printf("a[2] = %d\n", a[2]);
