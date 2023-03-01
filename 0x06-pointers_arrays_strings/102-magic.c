@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/**
+* main - Entry point
+*
+* Description: 'the program's description'
+*
+* Return: Always 0 (Success)
+*/
+
 int main(void)
 {
 int n;
@@ -9,7 +17,6 @@ int *p;
 a[2] = 1024;
 p = &n;
 /*
- * main - entry point
 * write your line of code here...
 * Remember:
 * - you are not allowed to use a
